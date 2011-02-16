@@ -3,4 +3,8 @@ class Test
   def initialize
     @test = 42
   end
+  def to_s
+    "test class"
+  end
 end
+
